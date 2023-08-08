@@ -37,7 +37,7 @@ const About = () => {
           >
             <h2 className='h2 text-accent'>About me.</h2>
             <h3 className='h3 mb-4'>I'm a Front-End Developer and Competitive Programmer </h3>
-            <p className='mb-6'>4⭐ CodeChef || 5⭐ (C++, Python) HackerRank || Web Developer || Data Structures and Algorithms | C | C++ | Python | HTML | CSS | JavaScript | ReactJS | Bootstrap | Tailwind CSS | GSAP
+            <p className='mb-6'>3⭐ CodeChef || 5⭐ (C++, Python) HackerRank || Web Developer || Data Structures and Algorithms | C | C++ | Python | HTML | CSS | JavaScript | ReactJS | Bootstrap | Tailwind CSS | GSAP
             </p>
 
             {/* stats */}
