@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Harsh_Bisht_Portfolio/static/css/main.01fc7695.css",
+    "main.js": "/Harsh_Bisht_Portfolio/static/js/main.37f7089b.js",
+    "static/media/portfolio-img1.png": "/Harsh_Bisht_Portfolio/static/media/portfolio-img1.dec9bd21786f95e6f1e0.png",
+    "static/media/portfolio-img3.png": "/Harsh_Bisht_Portfolio/static/media/portfolio-img3.ca4e67e3ef1e4a781288.png",
+    "static/media/portfolio-img2.png": "/Harsh_Bisht_Portfolio/static/media/portfolio-img2.6024ce2cdc280025e894.png",
+    "static/media/site-bg.jpg": "/Harsh_Bisht_Portfolio/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/about.png": "/Harsh_Bisht_Portfolio/static/media/about.8a69b4df91324bc631b5.png",
+    "static/media/profile_main.png": "/Harsh_Bisht_Portfolio/static/media/profile_main.b9020bd7e9485eaa373f.png",
+    "static/media/logo.svg": "/Harsh_Bisht_Portfolio/static/media/logo.db69ab3d72628dc90d79e6a2d59e174b.svg",
+    "index.html": "/Harsh_Bisht_Portfolio/index.html",
+    "main.01fc7695.css.map": "/Harsh_Bisht_Portfolio/static/css/main.01fc7695.css.map",
+    "main.37f7089b.js.map": "/Harsh_Bisht_Portfolio/static/js/main.37f7089b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01fc7695.css",
+    "static/js/main.37f7089b.js"
+  ]
+}
