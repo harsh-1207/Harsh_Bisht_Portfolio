@@ -31,8 +31,8 @@ const Work = () => {
 
             {/* image */}
             <ProjectCard img= {Img1}
-              imgPreTitle="UI/UX Design"
-              imgTitle = "Project Title" 
+              imgPreTitle="ReactJS Frontend Project"
+              imgTitle = "Social Group Landing Page Frontend" 
             />
 
           </motion.div>
@@ -45,13 +45,13 @@ const Work = () => {
           className='flex-1 flex flex-col gap-y-10'>
 
             <ProjectCard img= {Img2}
-              imgPreTitle="UI/UX Design"
-              imgTitle = "Project Title" 
+              imgPreTitle="Frontend Project"
+              imgTitle = "Trading Landing Page Frontend" 
             />
 
             <ProjectCard img= {Img3}
-              imgPreTitle="UI/UX Design"
-              imgTitle = "Project Title" 
+              imgPreTitle="API Project"
+              imgTitle = "Weather App" 
             />
             
           </motion.div>
